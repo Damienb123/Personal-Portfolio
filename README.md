@@ -56,3 +56,8 @@ root/
 - Boxicons: Provide the needs of images and icons used in the projects.
 
 ## Vercel Deployment
+
+- Accessing the deployed web application
+
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)
+https://vercel.com/damienb123s-projects/personal-portfolio/MPjTbzmpuivrHkcfJD8Wychem5A2
