@@ -65,4 +65,4 @@ root/
 
 ## Sneak Peek Image
 
-<img src="Personal Portfolio.png" width=200>
+<img src="Personal Portfolio.png" width=500>
