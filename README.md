@@ -52,7 +52,7 @@ root/
 
 ## Credits
 
-- Google Fonts:
-- Boxicons: 
+- Google Fonts: Provides the Montserrat font used in the project.
+- Boxicons: Provide the needs of images and icons used in the projects.
 
 ## Vercel Deployment
