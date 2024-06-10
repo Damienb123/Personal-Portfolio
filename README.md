@@ -11,6 +11,7 @@ Welcome to my personal portfolio project. This README file provides an overview 
 5. [Features](#features)
 6. [Credits](#Credits)
 7. [Vercel Deployment](#Vercel-Deployment)
+8. [Sneak Peek Image](#Sneak-Peek-Image)
 
 ## Overview
 
@@ -61,3 +62,6 @@ root/
 
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)
 [(https://personal-portfolio-8nxs2kq5x-damienb123s-projects.vercel.app/)](https://personal-portfolio-8nxs2kq5x-damienb123s-projects.vercel.app/)
+
+## Sneak Peek Image
+
