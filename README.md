@@ -9,7 +9,8 @@ Welcome to my personal portfolio project. This README file provides an overview 
 3. [File Structure](#file-structure)
 4. [Getting Started](#getting-started)
 5. [Features](#features)
-6. [Vercel Deployment](#Vercel-Deployment)
+6. [Credits](#Credits)
+7. [Vercel Deployment](#Vercel-Deployment)
 
 ## Overview
 
@@ -48,5 +49,10 @@ root/
 - About Section: Provides information about Damien Beltran.
 - Skills Section: Lists programming languages and UX design skills.
 - Footer: Contains contact information and useful links.
+
+## Credits
+
+- Google Fonts:
+- Boxicons: 
 
 ## Vercel Deployment
